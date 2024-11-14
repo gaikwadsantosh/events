@@ -1,3 +1,7 @@
+Clone the Repository
+-------------------------
+git clone https://github.com/gaikwadsantosh/events/
+
 Event Management App
 -------------------------
 This is a full-stack web application that allows users to create, read, update, and delete (CRUD) events. 
