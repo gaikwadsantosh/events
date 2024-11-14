@@ -80,3 +80,7 @@ fullstack-event-app/
 ├── package.json
 ├── README.md
 └── .gitignore
+
+Images
+----------------------
+![App Screenshot](./assets/AddEvents.png)
