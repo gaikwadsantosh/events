@@ -81,6 +81,13 @@ fullstack-event-app/
 ├── README.md
 └── .gitignore
 
-Images
+#Images
 ----------------------
+###Add Events
 ![App Screenshot](./assets/AddEvents.png)
+
+###List Events
+![App Screenshot](./assets/ListEvents.png)
+
+###Edit Events
+![App Screenshot](./assets/EditEvents.png)
